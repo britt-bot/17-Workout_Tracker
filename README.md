@@ -1,6 +1,5 @@
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 # 17-Workout_Tracker
-
-
 ## Description 
 
 This Workout Tracker application, gives users the ability to create and track daily workouts.

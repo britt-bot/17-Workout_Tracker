@@ -19,9 +19,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Homework 17 - Tech Blog GitHub Repo](https://github.com/britt-bot/17-Workout_Tracker)
+[Tech Blog GitHub Repo](https://github.com/britt-bot/17-Workout_Tracker)
 
-[Homework 17 - Tech Blog Heroku Deploy](https://fitness-tracker--homework-17.herokuapp.com/)
+[Tech Blog Heroku Deploy](https://fitness-tracker--homework-17.herokuapp.com/)
 
 ## Usage 
 

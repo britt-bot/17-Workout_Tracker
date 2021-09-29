@@ -21,7 +21,7 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 [Tech Blog GitHub Repo](https://github.com/britt-bot/17-Workout_Tracker)
 
-[Tech Blog Heroku Deploy](https://fitness-tracker--homework-17.herokuapp.com/)
+[Tech Blog Heroku Deploy](https://arcane-gorge-00224.herokuapp.com/?id=6127047a7eb5620016ffe601)
 
 ## Usage 
 

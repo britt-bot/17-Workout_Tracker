@@ -1,5 +1,5 @@
 ![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-# 17-Workout_Tracker
+# Workout_Tracker
 ## Description 
 
 This Workout Tracker application, gives users the ability to create and track daily workouts.
@@ -19,9 +19,9 @@ This table of contents is to make it easy for users to find what they need.
 
 Open the desired web browser and go to the page url for either the Repo or the Deployed project.
 
-[Workout Tracker GitHub Repo](https://github.com/britt-bot/17-Workout_Tracker)
+[Workout Tracker Repo](https://github.com/britt-bot/17-Workout_Tracker)
 
-[Workout Tracker Heroku Deploy](https://arcane-gorge-00224.herokuapp.com/?id=6127047a7eb5620016ffe601)
+[Workout Tracker Deploy](https://arcane-gorge-00224.herokuapp.com/?id=6127047a7eb5620016ffe601)
 
 
 ## Usage 

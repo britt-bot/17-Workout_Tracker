@@ -28,6 +28,8 @@ Open the desired web browser and go to the page url for either the Repo or the D
 
 This application was created for users to create and track daily workouts.
 
+![workouttracker](https://user-images.githubusercontent.com/77466708/139328264-0ac4e964-282e-426a-829a-09aca841b87f.png)
+
 
 ## Credits
 
